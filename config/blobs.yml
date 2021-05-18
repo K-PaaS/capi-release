@@ -2,10 +2,10 @@ expat/expat-2.2.5.tar.bz2:
   size: 510868
   object_id: bb1fb7d4-894a-4418-43a4-d00f4e950f73
   sha: sha256:d9dc32efba7e74f788fcc4f212a43216fc37cf5f23f4c2339664d473353aedf6
-mariadb_connector_c/mariadb-connector-c-2.3.5-src.tar.gz:
-  size: 540018
-  object_id: 27f389e6-85e6-47c3-4c60-256dd7d9874d
-  sha: sha256:2f3bf4c326d74284debf7099f30cf3615f7978d1ec22b8c1083676688a76746f
+#mariadb_connector_c/mariadb-connector-c-2.3.5-src.tar.gz:
+#  size: 540018
+#  object_id: 27f389e6-85e6-47c3-4c60-256dd7d9874d
+#  sha: sha256:2f3bf4c326d74284debf7099f30cf3615f7978d1ec22b8c1083676688a76746f
 nfs-debs/keyutils_1.5.9-8ubuntu1_amd64.deb:
   size: 47054
   object_id: a7207ad8-8660-4e0d-72a1-7fdd605e131d
